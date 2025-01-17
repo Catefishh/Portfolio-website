@@ -4,10 +4,10 @@ Welcome to my personal portfolio website! This repository contains all the files
 
 ## Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [License](#license)
+- [About]
+- [Features]
+- [Technologies Used]
+- [License]
 
 ## About
 
